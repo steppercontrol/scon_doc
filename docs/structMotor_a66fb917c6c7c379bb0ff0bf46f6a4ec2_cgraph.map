@@ -1,0 +1,26 @@
+<map id="Motor::doCommand" name="Motor::doCommand">
+<area shape="rect" id="Node000001" title="Process a user command in the motor subsystem." alt="" coords="5,109,156,137"/>
+<area shape="rect" id="Node000002" href="$structMotor.html#a053401632b16cc46de752acbe541ac3e" title="Move the assembly to a position relative to the initial set point." alt="" coords="204,57,332,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,106,200,87,202,92,134,111"/>
+<area shape="rect" id="Node000009" href="$structMotor.html#a0d8f92edda57f727e97fc8eff243b59d" title="Move the assembly to a position relative to its current position." alt="" coords="205,109,331,137"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="156,120,190,120,190,126,156,126"/>
+<area shape="rect" id="Node000010" href="$structMotor.html#a89b6eb410bf6775858ac8925772a1d5c" title="Set the motor speed, in steps per second." alt="" coords="204,187,332,214"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="117,135,219,178,217,183,115,140"/>
+<area shape="rect" id="Node000003" href="$structMotor.html#ae62a4bd71c2b829aa61b6536c4e7f6a3" title=" " alt="" coords="381,5,595,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="329,54,410,35,412,40,330,59"/>
+<area shape="rect" id="Node000004" href="$motor_8cpp.html#ae8e4a21d23f3aebf6e460ee43b62c656" title=" " alt="" coords="445,57,530,85"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="333,68,429,68,429,74,333,74"/>
+<area shape="rect" id="Node000007" href="$structMotor.html#ab8bdf0149e01504e90c2d7bc10972716" title="Move the assembly an absolute number of steps." alt="" coords="436,109,540,137"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="330,83,421,105,420,110,329,88"/>
+<area shape="rect" id="Node000008" href="$structMotor.html#ac46a58a1f3c9ad7700516169389564ca" title=" " alt="" coords="380,161,595,189"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="311,83,334,96,348,109,358,122,367,135,381,146,394,153,392,158,379,151,363,138,353,125,344,113,330,100,308,88"/>
+<area shape="rect" id="Node000005" href="$util_8cpp.html#ac2dc213525096cc6a6371f6b74aa4fe5" title=" " alt="" coords="643,135,747,162"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="531,77,596,95,658,125,656,129,594,100,530,82"/>
+<area shape="rect" id="Node000006" href="$namespacefmt.html#ab62fcf4fb8896cbc8c11dcefddb660a3" title=" " alt="" coords="795,135,899,162"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="747,146,779,146,779,151,747,151"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="308,107,330,94,344,82,353,69,363,56,379,44,392,37,394,42,381,48,367,60,358,72,348,85,334,99,311,111"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="329,106,429,82,430,87,330,111"/>
+<area shape="poly" id="edge11_Node000009_Node000007" title=" " alt="" coords="331,120,420,120,420,126,331,126"/>
+<area shape="poly" id="edge12_Node000009_Node000008" title=" " alt="" coords="330,135,412,155,410,160,329,140"/>
+<area shape="poly" id="edge14_Node000010_Node000005" title=" " alt="" coords="332,207,388,211,455,213,525,210,595,198,629,185,660,169,662,173,631,190,596,203,526,215,455,219,388,217,331,212"/>
+</map>

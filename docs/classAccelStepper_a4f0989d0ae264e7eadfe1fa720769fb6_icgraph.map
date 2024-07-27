@@ -1,0 +1,24 @@
+<map id="AccelStepper::speed" name="AccelStepper::speed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="878,136,1031,164"/>
+<area shape="rect" id="Node000002" href="$classAccelStepper.html#abee8d466229b87accba33d6ec929c18f" title=" " alt="" coords="627,84,830,112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="875,134,791,115,793,110,877,129"/>
+<area shape="rect" id="Node000006" href="$classAccelStepper.html#ae79c49ad69d5ccc9da0ee691fa4ca235" title=" " alt="" coords="641,161,816,189"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="863,163,816,168,816,163,862,157"/>
+<area shape="rect" id="Node000003" href="$classAccelStepper.html#a3bc75bd6571b98a6177838ca81ac39ab" title=" " alt="" coords="380,5,579,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="673,81,579,48,536,36,538,31,580,43,675,76"/>
+<area shape="rect" id="Node000004" href="$classAccelStepper.html#afa3061ce813303a8f2fa206ee8d012bd" title=" " alt="" coords="380,57,579,85"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="611,88,580,85,580,79,612,83"/>
+<area shape="rect" id="Node000005" href="$structMotor.html#a750bb178d0d476f26887d02063d53125" title="Motor subsystem." alt="" coords="427,109,532,137"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="612,112,533,120,533,115,611,107"/>
+<area shape="rect" id="Node000007" href="$structMotor.html#ab8bdf0149e01504e90c2d7bc10972716" title="Move the assembly an absolute number of steps." alt="" coords="428,161,532,189"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="626,178,532,178,532,173,626,173"/>
+<area shape="rect" id="Node000011" href="$classMultiStepper.html#a291fec32a79390b6eb00296cffac49ee" title=" " alt="" coords="398,213,561,241"/>
+<area shape="poly" id="edge11_Node000006_Node000011" title=" " alt="" coords="644,195,550,215,549,210,643,190"/>
+<area shape="rect" id="Node000008" href="$structMotor.html#a053401632b16cc46de752acbe541ac3e" title="Move the assembly to a position relative to the initial set point." alt="" coords="204,136,332,164"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="412,170,332,160,333,155,413,165"/>
+<area shape="rect" id="Node000010" href="$structMotor.html#a0d8f92edda57f727e97fc8eff243b59d" title="Move the assembly to a position relative to its current position." alt="" coords="205,188,331,216"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="412,186,331,197,331,191,412,181"/>
+<area shape="rect" id="Node000009" href="$structMotor.html#a66fb917c6c7c379bb0ff0bf46f6a4ec2" title="Process a user command in the motor subsystem." alt="" coords="5,163,156,190"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="189,164,156,168,156,163,188,158"/>
+<area shape="poly" id="edge10_Node000010_Node000009" title=" " alt="" coords="190,194,156,189,156,184,190,189"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="Motor::moveAbs" name="Motor::moveAbs">
+<area shape="rect" id="Node000001" title="Move the assembly to a position relative to the initial set point." alt="" coords="5,84,134,112"/>
+<area shape="rect" id="Node000002" href="$structMotor.html#ae62a4bd71c2b829aa61b6536c4e7f6a3" title=" " alt="" coords="182,5,397,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,81,181,43,207,35,208,40,183,48,99,86"/>
+<area shape="rect" id="Node000003" href="$motor_8cpp.html#ae8e4a21d23f3aebf6e460ee43b62c656" title=" " alt="" coords="247,57,332,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,87,231,75,232,81,135,93"/>
+<area shape="rect" id="Node000006" href="$structMotor.html#ab8bdf0149e01504e90c2d7bc10972716" title="Move the assembly an absolute number of steps." alt="" coords="237,109,342,137"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="135,103,222,113,221,118,134,108"/>
+<area shape="rect" id="Node000007" href="$structMotor.html#ac46a58a1f3c9ad7700516169389564ca" title=" " alt="" coords="182,161,397,189"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="100,110,183,146,208,154,207,159,181,151,97,115"/>
+<area shape="rect" id="Node000004" href="$util_8cpp.html#ac2dc213525096cc6a6371f6b74aa4fe5" title=" " alt="" coords="445,57,548,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="333,69,429,69,429,74,333,74"/>
+<area shape="rect" id="Node000005" href="$namespacefmt.html#ab62fcf4fb8896cbc8c11dcefddb660a3" title=" " alt="" coords="596,57,701,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="549,69,581,69,581,74,549,74"/>
+</map>

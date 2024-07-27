@@ -1,0 +1,9 @@
+<map id="AccelStepper::setMaxSpeed" name="AccelStepper::setMaxSpeed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,208,72"/>
+<area shape="rect" id="Node000002" href="$classAccelStepper.html#aab5944f43f869675958939c421bd9a01" title=" " alt="" coords="256,5,456,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,43,240,39,240,45,208,49"/>
+<area shape="rect" id="Node000004" href="$classAccelStepper.html#a4f0989d0ae264e7eadfe1fa720769fb6" title=" " alt="" coords="279,74,433,102"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="208,68,264,74,264,80,208,73"/>
+<area shape="rect" id="Node000003" href="$classAccelStepper.html#a748665c3962e66fbc0e9373eb14c69c1" title=" " alt="" coords="504,14,705,42"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="457,25,489,25,489,30,457,30"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="AccelStepper::step1" name="AccelStepper::step1">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,141,156,169"/>
+<area shape="rect" id="Node000002" href="$classAccelStepper.html#af3c2516b6ce7c1ecbc2004107bb2a9ce" title=" " alt="" coords="592,168,798,195"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,138,173,91,225,63,284,37,348,16,414,5,481,6,514,12,545,23,589,49,627,84,658,121,680,153,676,156,653,124,623,88,586,54,543,28,512,17,480,11,415,10,349,21,286,42,227,68,176,95,102,143"/>
+<area shape="rect" id="Node000003" href="$classAccelStepper.html#a8a419121702399d8ac66df4cc47481f4" title=" " alt="" coords="204,141,346,169"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,161,188,161,188,166,156,166"/>
+<area shape="poly" id="edge6_Node000003_Node000001" title=" " alt="" coords="203,149,171,149,171,143,203,143"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="241,142,236,132,240,123,253,116,275,114,298,117,310,123,308,128,296,122,275,120,255,122,244,126,241,132,246,139"/>
+<area shape="rect" id="Node000004" href="$classAccelStepper.html#aa2913db789e6fa05756579ff82fe6e7e" title=" " alt="" coords="394,37,544,65"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="308,138,393,87,436,69,438,74,395,92,310,143"/>
+<area shape="rect" id="Node000005" href="$classAccelStepper.html#a674e48a6bf99e7ad1f013c1e4414565a" title=" " alt="" coords="394,89,544,117"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="346,142,424,120,426,125,347,147"/>
+<area shape="rect" id="Node000006" href="$classAccelStepper.html#ad73c61aade2e10243dfb02aefa7ab8fd" title=" " alt="" coords="394,141,544,169"/>
+<area shape="poly" id="edge10_Node000003_Node000006" title=" " alt="" coords="346,161,379,161,379,166,346,166"/>
+<area shape="rect" id="Node000007" href="$classAccelStepper.html#a8910bd9218a54dfb7e2372a6d0bcca0c" title=" " alt="" coords="394,193,544,221"/>
+<area shape="poly" id="edge13_Node000003_Node000007" title=" " alt="" coords="306,167,379,189,378,194,304,172"/>
+<area shape="rect" id="Node000008" href="$classAccelStepper.html#a4b0faf1ebc0c584ab606c0c0f66986b0" title=" " alt="" coords="394,245,544,273"/>
+<area shape="poly" id="edge16_Node000003_Node000008" title=" " alt="" coords="288,167,327,200,383,235,380,240,324,204,284,171"/>
+<area shape="rect" id="Node000009" href="$classAccelStepper.html#aa909c6c3fcd3ea4b3ee1aa8b4d0f7e87" title=" " alt="" coords="394,297,544,325"/>
+<area shape="poly" id="edge19_Node000003_Node000009" title=" " alt="" coords="284,168,322,223,350,256,384,286,380,290,347,260,317,227,280,171"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="396,68,395,68,342,99,299,132,295,128,339,95,393,63,393,63"/>
+<area shape="poly" id="edge8_Node000005_Node000002" title=" " alt="" coords="512,115,639,159,637,164,511,120"/>
+<area shape="poly" id="edge9_Node000005_Node000003" title=" " alt="" coords="394,117,320,138,318,133,393,112"/>
+<area shape="poly" id="edge11_Node000006_Node000002" title=" " alt="" coords="545,161,577,165,577,170,544,166"/>
+<area shape="poly" id="edge12_Node000006_Node000003" title=" " alt="" coords="394,149,361,149,361,143,394,143"/>
+<area shape="poly" id="edge14_Node000007_Node000002" title=" " alt="" coords="545,196,577,192,577,197,545,201"/>
+<area shape="poly" id="edge15_Node000007_Node000003" title=" " alt="" coords="438,195,360,171,362,166,440,190"/>
+<area shape="poly" id="edge17_Node000008_Node000002" title=" " alt="" coords="511,242,637,198,639,203,513,247"/>
+<area shape="poly" id="edge18_Node000008_Node000003" title=" " alt="" coords="450,247,393,223,320,180,323,175,395,218,452,242"/>
+<area shape="poly" id="edge20_Node000009_Node000002" title=" " alt="" coords="515,294,543,282,609,242,663,203,666,207,612,247,546,287,517,299"/>
+<area shape="poly" id="edge21_Node000009_Node000003" title=" " alt="" coords="446,299,420,288,393,274,365,253,340,229,299,183,303,179,344,225,368,249,395,270,422,284,448,294"/>
+</map>

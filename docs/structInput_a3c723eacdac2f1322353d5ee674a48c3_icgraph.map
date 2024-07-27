@@ -1,0 +1,7 @@
+<map id="Input::inputCalibration" name="Input::inputCalibration">
+<area shape="rect" id="Node000001" title="Input handler for the Calibration mode." alt="" coords="311,5,477,33"/>
+<area shape="rect" id="Node000002" href="$structInput.html#abc3f6d13080cb2e49c2cef3c3073b090" title=" " alt="" coords="152,5,263,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="295,22,264,22,264,17,295,17"/>
+<area shape="rect" id="Node000003" href="$structPlaner.html#afd8df713478aa39823fe25c101350c24" title=" " alt="" coords="5,5,104,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="136,22,104,22,104,17,136,17"/>
+</map>

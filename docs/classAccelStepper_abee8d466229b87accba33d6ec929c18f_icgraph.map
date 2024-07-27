@@ -1,0 +1,9 @@
+<map id="AccelStepper::setMaxSpeed" name="AccelStepper::setMaxSpeed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="253,57,455,85"/>
+<area shape="rect" id="Node000002" href="$classAccelStepper.html#a3bc75bd6571b98a6177838ca81ac39ab" title=" " alt="" coords="5,5,205,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,56,174,36,176,31,270,51"/>
+<area shape="rect" id="Node000003" href="$classAccelStepper.html#afa3061ce813303a8f2fa206ee8d012bd" title=" " alt="" coords="5,57,205,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,74,205,74,205,69,237,69"/>
+<area shape="rect" id="Node000004" href="$structMotor.html#a750bb178d0d476f26887d02063d53125" title="Motor subsystem." alt="" coords="52,109,158,137"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="270,91,159,115,158,110,269,86"/>
+</map>

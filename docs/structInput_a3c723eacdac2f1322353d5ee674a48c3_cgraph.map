@@ -1,0 +1,22 @@
+<map id="Input::inputCalibration" name="Input::inputCalibration">
+<area shape="rect" id="Node000001" title="Input handler for the Calibration mode." alt="" coords="5,109,172,137"/>
+<area shape="rect" id="Node000002" href="$structCommand.html#a09fa20a03d3e67f27ab809943c43c0c1" title=" " alt="" coords="246,5,380,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,107,158,75,219,43,238,36,240,41,221,48,160,80,112,111"/>
+<area shape="rect" id="Node000004" href="$structCommand.html#a393af01210c019986ce190834d9b0fd8" title=" " alt="" coords="220,57,406,85"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="151,106,234,87,236,92,152,111"/>
+<area shape="rect" id="Node000005" href="$structInput.html#ac12db24ba19cfe9a3a83e169e9b3c5d7" title=" " alt="" coords="239,213,387,241"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="112,135,160,166,221,198,240,205,238,210,219,203,158,171,109,140"/>
+<area shape="rect" id="Node000008" href="$structCommand.html#a94afbecbc8e6825458d1f56e6cb34648" title=" " alt="" coords="237,109,389,137"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="172,121,221,121,221,126,172,126"/>
+<area shape="rect" id="Node000009" href="$structCommand.html#aa4dd6709f85b0e429cd5261c7aa01494" title=" " alt="" coords="245,161,381,189"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="152,135,236,155,234,160,151,140"/>
+<area shape="rect" id="Node000003" href="$structCommand.html#a18df2d81039392daeb0b78c346a70537" title=" " alt="" coords="454,84,617,112"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="368,31,407,43,489,75,487,80,405,48,367,36"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="407,80,439,84,438,89,406,85"/>
+<area shape="rect" id="Node000006" href="$util_8cpp.html#ac2dc213525096cc6a6371f6b74aa4fe5" title=" " alt="" coords="484,213,587,241"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="387,225,468,225,468,230,387,230"/>
+<area shape="rect" id="Node000007" href="$namespacefmt.html#ab62fcf4fb8896cbc8c11dcefddb660a3" title=" " alt="" coords="665,213,770,241"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="588,225,650,225,650,230,588,230"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="389,112,438,106,439,112,390,117"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="366,158,405,146,485,116,487,121,407,151,368,163"/>
+</map>

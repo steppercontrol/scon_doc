@@ -1,0 +1,18 @@
+<map id="Planer" name="Planer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="95,283,157,311"/>
+<area shape="rect" id="Node000002" href="$structState.html" title=" " alt="" coords="102,98,158,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,131,46,155,28,172,13,192,8,206,10,220,18,233,30,245,62,266,95,282,93,287,59,271,26,249,14,236,5,222,3,206,8,189,24,168,43,151,86,126"/>
+<area shape="rect" id="Node000007" href="$structDisplay.html" title=" " alt="" coords="222,191,292,218"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="138,139,144,153,152,165,178,176,222,190,220,195,176,181,149,169,139,156,133,142"/>
+<area shape="rect" id="Node000003" href="$structState_1_1Input.html" title=" " alt="" coords="242,5,338,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="255,43,155,100,152,95,252,39"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="288,49,262,191,257,190,282,48"/>
+<area shape="rect" id="Node000004" href="$structState_1_1Motor.html" title=" " alt="" coords="106,5,207,33"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="150,49,147,58,136,98,131,97,142,56,145,47"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="181,43,190,56,253,189,248,191,185,58,177,47"/>
+<area shape="rect" id="Node000005" href="$structInput.html" title="Input subsystem." alt="" coords="59,191,113,218"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="95,233,104,258,118,282,113,284,99,260,89,234"/>
+<area shape="rect" id="Node000006" href="$structMotor.html" title="Motor subsystem." alt="" coords="138,191,197,218"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="158,234,134,284,130,282,153,231"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="236,231,200,262,157,285,155,280,197,257,232,227"/>
+</map>

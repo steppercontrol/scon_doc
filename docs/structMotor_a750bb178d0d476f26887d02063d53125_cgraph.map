@@ -1,0 +1,11 @@
+<map id="Motor::Motor" name="Motor::Motor">
+<area shape="rect" id="Node000001" title="Motor subsystem." alt="" coords="5,45,111,72"/>
+<area shape="rect" id="Node000002" href="$classAccelStepper.html#abee8d466229b87accba33d6ec929c18f" title=" " alt="" coords="159,45,361,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,56,143,56,143,61,111,61"/>
+<area shape="rect" id="Node000003" href="$classAccelStepper.html#aab5944f43f869675958939c421bd9a01" title=" " alt="" coords="409,5,609,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="361,43,393,39,394,45,362,49"/>
+<area shape="rect" id="Node000005" href="$classAccelStepper.html#a4f0989d0ae264e7eadfe1fa720769fb6" title=" " alt="" coords="433,74,586,102"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="362,68,418,74,417,80,361,73"/>
+<area shape="rect" id="Node000004" href="$classAccelStepper.html#a748665c3962e66fbc0e9373eb14c69c1" title=" " alt="" coords="657,14,859,42"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="610,25,642,25,642,30,610,30"/>
+</map>

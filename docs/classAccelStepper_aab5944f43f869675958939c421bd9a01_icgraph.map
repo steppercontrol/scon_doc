@@ -1,0 +1,30 @@
+<map id="AccelStepper::computeNewSpeed" name="AccelStepper::computeNewSpeed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="796,177,997,222"/>
+<area shape="rect" id="Node000002" href="$classAccelStepper.html#ace236ede35f87c63d18da25810ec9736" title=" " alt="" coords="558,133,723,161"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="781,178,712,164,713,159,782,173"/>
+<area shape="rect" id="Node000007" href="$classAccelStepper.html#a608b2395b64ac15451d16d0371fe13ce" title=" " alt="" coords="573,44,708,72"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="840,171,667,75,669,70,842,167"/>
+<area shape="rect" id="Node000009" href="$classAccelStepper.html#adfb19e3cd2a028a1fe78131787604fd1" title=" " alt="" coords="533,211,748,238"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="781,213,749,216,749,211,781,208"/>
+<area shape="rect" id="Node000012" href="$classAccelStepper.html#abee8d466229b87accba33d6ec929c18f" title=" " alt="" coords="540,263,742,290"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="819,230,749,252,704,265,703,259,748,247,817,225"/>
+<area shape="rect" id="Node000003" href="$classAccelStepper.html#a68942c66e78fb7f7b5f0cdade6eb7f06" title=" " alt="" coords="309,159,460,186"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="543,159,461,168,460,162,542,154"/>
+<area shape="rect" id="Node000005" href="$classMultiStepper.html#a291fec32a79390b6eb00296cffac49ee" title=" " alt="" coords="303,57,466,85"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="576,131,433,88,435,83,577,126"/>
+<area shape="rect" id="Node000006" href="$classAccelStepper.html#a176c5d2e4c2f21e9e92b12e39a6f0e67" title=" " alt="" coords="5,56,236,84"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="542,137,283,99,207,87,208,82,284,94,543,131"/>
+<area shape="rect" id="Node000004" href="$classAccelStepper.html#a638817b85aed9d5cd15c76a76c00aced" title=" " alt="" coords="49,159,192,186"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="293,175,192,175,192,170,293,170"/>
+<area shape="rect" id="Node000008" href="$classAccelStepper.html#a344f58fef8cc34ac5aa75ba4b665d21c" title=" " alt="" coords="284,5,485,33"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="557,48,480,36,481,31,558,43"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="294,39,197,58,196,53,293,34"/>
+<area shape="rect" id="Node000010" href="$classAccelStepper.html#a3bc75bd6571b98a6177838ca81ac39ab" title=" " alt="" coords="285,263,484,290"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="554,245,457,265,456,259,553,239"/>
+<area shape="rect" id="Node000011" href="$classAccelStepper.html#afa3061ce813303a8f2fa206ee8d012bd" title=" " alt="" coords="285,211,484,238"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="517,227,484,227,484,222,517,222"/>
+<area shape="poly" id="edge13_Node000012_Node000010" title=" " alt="" coords="524,279,484,279,484,274,524,274"/>
+<area shape="poly" id="edge14_Node000012_Node000011" title=" " alt="" coords="553,262,456,242,457,236,554,256"/>
+<area shape="rect" id="Node000013" href="$structMotor.html#a750bb178d0d476f26887d02063d53125" title="Motor subsystem." alt="" coords="332,315,437,342"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="554,297,438,320,437,315,553,291"/>
+</map>

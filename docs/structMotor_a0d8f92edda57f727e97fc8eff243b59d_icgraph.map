@@ -1,0 +1,5 @@
+<map id="Motor::moveRel" name="Motor::moveRel">
+<area shape="rect" id="Node000001" title="Move the assembly to a position relative to its current position." alt="" coords="204,5,329,33"/>
+<area shape="rect" id="Node000002" href="$structMotor.html#a66fb917c6c7c379bb0ff0bf46f6a4ec2" title="Process a user command in the motor subsystem." alt="" coords="5,5,156,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,22,156,22,156,17,188,17"/>
+</map>

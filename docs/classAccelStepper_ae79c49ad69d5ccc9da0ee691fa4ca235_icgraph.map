@@ -1,0 +1,14 @@
+<map id="AccelStepper::setSpeed" name="AccelStepper::setSpeed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="591,57,766,85"/>
+<area shape="rect" id="Node000002" href="$structMotor.html#ab8bdf0149e01504e90c2d7bc10972716" title="Move the assembly an absolute number of steps." alt="" coords="410,31,514,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="576,61,514,54,514,48,576,56"/>
+<area shape="rect" id="Node000006" href="$classMultiStepper.html#a291fec32a79390b6eb00296cffac49ee" title=" " alt="" coords="380,83,543,110"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="576,86,544,90,544,84,575,81"/>
+<area shape="rect" id="Node000003" href="$structMotor.html#a053401632b16cc46de752acbe541ac3e" title="Move the assembly to a position relative to the initial set point." alt="" coords="204,5,332,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="394,38,332,30,333,25,395,33"/>
+<area shape="rect" id="Node000005" href="$structMotor.html#a0d8f92edda57f727e97fc8eff243b59d" title="Move the assembly to a position relative to its current position." alt="" coords="205,57,331,85"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="394,56,331,65,331,60,394,51"/>
+<area shape="rect" id="Node000004" href="$structMotor.html#a66fb917c6c7c379bb0ff0bf46f6a4ec2" title="Process a user command in the motor subsystem." alt="" coords="5,32,156,60"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="189,33,156,38,156,32,188,28"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="190,63,156,59,156,53,190,58"/>
+</map>

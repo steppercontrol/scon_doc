@@ -1,0 +1,7 @@
+<map id="IO::print" name="IO::print">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,79,33"/>
+<area shape="rect" id="Node000002" href="$namespaceIO.html#a5ce4bcbdd9fe68d7d754467fd7466bba" title=" " alt="" coords="127,5,208,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,17,111,17,111,22,79,22"/>
+<area shape="rect" id="Node000003" href="$io_8cpp.html#ad386a6acf3085882731bb1fe907fc2b5" title=" " alt="" coords="256,5,310,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="208,17,240,17,240,22,208,22"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="AccelStepper::setAcceleration" name="AccelStepper::setAcceleration">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,36,221,64"/>
+<area shape="rect" id="Node000002" href="$classAccelStepper.html#a8b76f1ae6a49d2c2887b9fea30b8d84f" title=" " alt="" coords="272,5,466,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,34,256,30,257,35,222,40"/>
+<area shape="rect" id="Node000003" href="$classAccelStepper.html#aab5944f43f869675958939c421bd9a01" title=" " alt="" coords="269,57,469,102"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,60,254,63,253,69,221,65"/>
+<area shape="rect" id="Node000004" href="$classAccelStepper.html#a748665c3962e66fbc0e9373eb14c69c1" title=" " alt="" coords="517,65,718,93"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="470,77,502,77,502,82,470,82"/>
+</map>

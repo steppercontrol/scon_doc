@@ -1,0 +1,110 @@
+* scon
+* scon_tools
+** build
+** test
+
+build tests
+
+scon build --arch arduino-renesas_uno-minima test
+* keypad
+** 5x4 membrane keypad
+
+front view of connector has 4 row pins, then 5 column pins
+if pin 1 is leftmost and pin 9 is rightmost
+pins 1-4 are the columns from left to right
+pins 5-9 are the rows from bottom to top
+
+-', '+', '#', '*'
+'1', '2', '3', '^'
+'4', '5', '6', 'v'
+'7', '8', '9', 'n'
+'<', '0', '>', 'y'
+
+* commits
+
+** structure
+
+#+begin_example
+<type>[optional scope]: <description>
+
+[optional body]
+
+[optional footer(s)]
+#+end_example
+
+** commit types
+
+build
+chore
+docs
+feat
+fix
+perf
+revert
+style
+test
+
+** commit scopes
+
+config
+keypad
+scon
+
+** description
+
+- first letter is not capitalized
+- no period at end
+- imperative, present tense
+
+** body
+
+The body should include the motivation for the change and contrast this
+with previous behavior.
+
+- optional part of the format
+- imperative, present tense: "change" not "changed" nor "changes"
+- mention issue identifiers and their relations
+
+** breaking change
+
+- must describe in footer
+
+** details on conventional commits
+
+fix: a commit of the type ~fix~ patches a bug in your codebase (this
+correlates with PATCH in Semantic Versioning).
+
+feat: a commit of the type ~feat~ introduces a new feature to the codebase
+(this correlates with MINOR in Semantic Versioning).
+
+BREAKING CHANGE: a commit that has a footer ~BREAKING CHANGE:~, or appends a
+~!~ after the type/scope, introduces a breaking API change (correlating with
+MAJOR in Semantic Versioning). A BREAKING CHANGE can be part of commits of
+any type.
+
+types other than ~fix:~ and ~feat:~ are allowed, for example
+@commitlint/config-conventional (based on the Angular convention)
+recommends build:, chore:, ci:, docs:, style:, refactor:, perf:, test:, and
+others.
+
+A scope may be provided to a commit’s type, to provide additional
+contextual information and is contained within parenthesis, e.g.,
+~feat(parser): add ability to parse arrays~.
+
+* Arduino R4 Minima
+
+#+DOWNLOADED: https://docs.arduino.cc/resources/pinouts/ABX00080-full-pinout.pdf @ 2025-03-18 11:07:36
+[[file:Arduino_R4_Minima/2025-03-18_11-07-36_ABX00080-full-pinout.pdf]]
+
+* motor
+
+
+#+DOWNLOADED: https://www.omc-stepperonline.com/download/CL57T_V4.0.pdf?srsltid=AfmBOopMFtvAkOklPphZdT9NUCoSHaeXj596fCEtJAmLJ9SUyPs_angI @ 2025-03-31 19:35:51
+[[file:motor/2025-03-31_19-35-51_CL57T_V4.0.pdf]]
+
+
+* troubleshooting
+** get compile warnings
+
+when using ~arduino-cli compile~, always use ~--warnings all~ to avoid missing
+compiler warnings
